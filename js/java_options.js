@@ -6,9 +6,6 @@ function handleSelectClick() {
         if (event.target.value === "0.0.23a_01") {
             window.open('clients/Klockcraft-Classic/index.html')
         }
-        if (event.target.value === "0.30") {
-            window.open('clients/Klockcraft-Java-Edition-0.30/index.html')
-        }
     });
 }
 
